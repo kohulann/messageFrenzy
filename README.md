@@ -1,2 +1,3 @@
-# messageFrenzy
-A python application that based off a sentence can generate new sentences.
+# MessageFrenzy
+
+## A Python application that generates new sentences based off of previous.
